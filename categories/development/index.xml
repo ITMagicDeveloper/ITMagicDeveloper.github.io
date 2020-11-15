@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>IT魔术师</title>
-    <link>http://www.magician.host/</link>
-    <description>Recent content on IT魔术师</description>
+    <title>Development on IT魔术师</title>
+    <link>http://www.magician.host/categories/development/</link>
+    <description>Recent content in Development on IT魔术师</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Nov 2020 16:40:35 +0800</lastBuildDate><atom:link href="http://www.magician.host/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Myfirst</title>
-      <link>http://www.magician.host/post/myfirst/</link>
-      <pubDate>Sun, 15 Nov 2020 16:40:35 +0800</pubDate>
-      
-      <guid>http://www.magician.host/post/myfirst/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Mon, 16 Apr 2018 00:00:00 +0000</lastBuildDate><atom:link href="http://www.magician.host/categories/development/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Basic HTML Elements</title>
       <link>http://www.magician.host/post/basic-elements/</link>
@@ -23,16 +14,6 @@
       
       <guid>http://www.magician.host/post/basic-elements/</guid>
       <description>&lt;p&gt;The main purpose of this article is to make sure that all basic HTML Elements are decorated with CSS so as to not miss any possible elements when creating new themes for Hugo.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Creating a New Theme</title>
-      <link>http://www.magician.host/post/creating-a-new-theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.magician.host/post/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
     
     <item>
@@ -61,17 +42,6 @@ More complete instructions are available at Install Hugo
 Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
 Follow the following steps:
  Clone the Hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
-    </item>
-    
-    <item>
-      <title>Migrate to Hugo from Jekyll</title>
-      <link>http://www.magician.host/post/migrate-from-jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.magician.host/post/migrate-from-jekyll/</guid>
-      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/▾ images/logo.png should become
-▾ &amp;lt;root&amp;gt;/▾ static/▾ images/logo.png Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
     </item>
     
   </channel>

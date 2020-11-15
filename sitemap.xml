@@ -18,11 +18,93 @@
   </url>
   
   <url>
+    <loc>http://www.magician.host/tags/basic-elements/</loc>
+    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.magician.host/post/basic-elements/</loc>
+    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.magician.host/categories/</loc>
+    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.magician.host/tags/css/</loc>
+    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.magician.host/categories/development/</loc>
+    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.magician.host/tags/html/</loc>
+    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://www.magician.host/tags/</loc>
+    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.magician.host/post/creating-a-new-theme/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.magician.host/post/goisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.magician.host/tags/development/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.magician.host/post/hugoisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.magician.host/tags/go/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.magician.host/tags/golang/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.magician.host/categories/golang/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.magician.host/tags/hugo/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.magician.host/tags/templates/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.magician.host/tags/themes/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.magician.host/post/migrate-from-jekyll/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>
